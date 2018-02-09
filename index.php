@@ -65,7 +65,7 @@
                             <div class="col-md-11 col-sm-12 text-right text-left-xs text-left-sm">
                                  <div class="modal-instance block">
                                    <div class="bar__module">
-                                <a class="btn modal-trigger" href="#">
+                                <a class="btn modal-trigger btn btn--primary-1" href="#">
                                     <span class="btn__text">
                                         Request a Call Back
                                     </span>
