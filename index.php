@@ -39,7 +39,7 @@
 
 
     </head>
-    <body data-smooth-scroll-offset="77">
+    <body data-smooth-scroll-offset="77"> 
         <div class="nav-container">
             <div class="via-1518053329475" via="via-1518053329475" vio="keyline">
                 <div class="bar bar--sm visible-xs">
