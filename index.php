@@ -46,7 +46,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-xs-3 col-sm-2">
-                                <a href="index.html"> <img class="logo logo-dark" alt="logo" src="img/keylinerealtylogo.png"> <img class="logo logo-light" alt="logo" src="img/keylinerealtylogo.png"> </a>
+                                <a href="index.html"> <img class="logo logo-dark" alt="keylinelogo" src="img/keylinerealtylogo.png"> <img class="logo logo-light" alt="logo" src="img/keylinerealtylogo.png"> </a>
                             </div>
                             <div class="col-xs-9 col-sm-10 text-right">
                                 <a href="#" class="hamburger-toggle" data-toggle-class="#menu1;hidden-xs hidden-sm"> <i class="icon icon--sm stack-interface stack-menu"></i> </a>
@@ -143,7 +143,7 @@
                                         <div class="col-xs-12"> <input type="Name" name="cm-name" placeholder="Name"> </div>
                                         <div class="col-xs-12"> <input type="email" class="js-cm-email-input" name="cm-ftujjy-ftujjy" placeholder="Email Address"> </div>
                                         <div class="col-xs-12"> <input type="Phone Number"id="fieldqlrdll" name="cm-f-qlrdll" placeholder="Mobile"> </div>
-                                        <div class="col-xs-12"> <button type="submit" class="btn btn--primary type--uppercase">Submit</button> </div>
+                                        <div class="col-xs-12"> <button type="submit" class="btn btn--primary-1 type--uppercase"><font color="ffffff">Submit</button> </font></div>
                                         <div class="col-xs-12"> <span class="type--fine-print">By signing up, you agree to the <a href="#">Terms of Service</a></span> </div>
                                     </div>
                                 </form>
