@@ -1,8 +1,9 @@
 <!doctype html>
 <html lang="en">
+
     <head>
         <meta charset="utf-8">
-        <title></title>
+        <title>Keyline Realty - Appraisal</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all">
         <link href="css/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
@@ -10,7 +11,32 @@
         <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/hamburgers.css" rel="stylesheet">
+
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700" rel="stylesheet">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+
+
+
+        <!-- Facebook Pixel Code -->
+                <script>
+                  !function(f,b,e,v,n,t,s)
+                  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                  n.queue=[];t=b.createElement(e);t.async=!0;
+                  t.src=v;s=b.getElementsByTagName(e)[0];
+                  s.parentNode.insertBefore(t,s)}(window, document,'script',
+                  'https://connect.facebook.net/en_US/fbevents.js');
+                  fbq('init', '1329219307175301');
+                  fbq('track', 'PageView');
+                </script>
+                <noscript><img height="1" width="1" style="display:none"
+                  src="https://www.facebook.com/tr?id=1329219307175301&ev=PageView&noscript=1"
+                /></noscript>
+        <!-- End Facebook Pixel Code -->
+
 
     </head>
     <body data-smooth-scroll-offset="77">
@@ -20,7 +46,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-xs-3 col-sm-2">
-                                <a href="index.html"> <img class="logo logo-dark" alt="logo" src="keylinerealtylogo.png"> <img class="logo logo-light" alt="logo" src="img/lkeylinerealtylogo.png"> </a>
+                                <a href="index.html"> <img class="logo logo-dark" alt="logo" src="img/keylinerealtylogo.png"> <img class="logo logo-light" alt="logo" src="img/keylinerealtylogo.png"> </a>
                             </div>
                             <div class="col-xs-9 col-sm-10 text-right">
                                 <a href="#" class="hamburger-toggle" data-toggle-class="#menu1;hidden-xs hidden-sm"> <i class="icon icon--sm stack-interface stack-menu"></i> </a>
@@ -33,7 +59,7 @@
                         <div class="row">
                             <div class="col-md-1 col-sm-2 hidden-xs">
                                 <div class="bar__module">
-                                    <a href="index.html"> <img class="logo logo-dark" alt="logo" src="img/keylinerealtylogo.png"> <img class="logo logo-light" alt="logo" src="img/logo-light.png"> </a>
+                                    <a href="index.html"> <img class="logo logo-dark" alt="logo" src="img/keylinerealtylogo.png"> <img class="logo logo-light" alt="logo" src="img/keylinerealtylogo.png"> </a>
                                 </div>
                             </div>
                             <div class="col-md-11 col-sm-12 text-right text-left-xs text-left-sm">
@@ -105,7 +131,7 @@
                     <div class="row">
                         <div class="col-md-5 col-sm-7 switchable__text">
                             <h1> The Sunshine Coast is <b>booming</b></h1>
-                            <p class="lead">On average there's been a 4.xx% growth in the past 12 months across all suburbs.<br>What's your property worth now?</p>
+                            <p class="lead">On average there's been a 4.6% growth in the past 12 months in the Hinterland.<br>What's your property worth now?</p>
                             
                         </div>
                         <div class="col-sm-4 right">
@@ -130,21 +156,21 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-4">
-                            <div class="feature feature-2 boxed boxed--border"> <i class="icon icon-Clock-Back color--primary"></i>
+                            <div class="feature feature-2 boxed boxed--border"> <i class="far fa-building fa-2x"></i>
                                 <div class="feature__body">
                                     <p> Only minutes to the coast and Maroochydore CBD</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-4">
-                            <div class="feature feature-2 boxed boxed--border"> <i class="icon icon-Duplicate-Window color--primary"></i>
+                            <div class="feature feature-2 boxed boxed--border"> <i class="fas fa-chart-line fa-2x"></i>
                                 <div class="feature__body">
                                     <p> Poised for growth</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-4">
-                            <div class="feature feature-2 boxed boxed--border"> <i class="icon icon-Life-Jacket color--primary"></i>
+                            <div class="feature feature-2 boxed boxed--border"> <i class="fas fa-car fa-2x"></i></i></i>
                                 <div class="feature__body">
                                     <p> Only 1 hour to Brisbane CBD</p>
                                 </div>
