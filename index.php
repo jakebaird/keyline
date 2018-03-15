@@ -17,6 +17,9 @@
         <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 
 
+        <!-- ManyChat -->
+        <script src="//widget.manychat.com/873422026093448.js" async="async">
+        </script>
 
 
         <!-- Facebook Pixel Code -->
